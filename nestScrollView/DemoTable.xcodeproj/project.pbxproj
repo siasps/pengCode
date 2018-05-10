@@ -310,7 +310,7 @@
 				INFOPLIST_FILE = DemoTable/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.51jiabo.huaxiajiaboapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.nestScrollView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "29c89c89-7090-4bc8-9b5f-c8fdcd6c79db";
 				PROVISIONING_PROFILE_SPECIFIER = "Development Profile Huaxiajiabo APP";
@@ -326,7 +326,7 @@
 				INFOPLIST_FILE = DemoTable/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.51jiabo.huaxiajiaboapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.nestScrollView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "29c89c89-7090-4bc8-9b5f-c8fdcd6c79db";
 				PROVISIONING_PROFILE_SPECIFIER = "Development Profile Huaxiajiabo APP";
