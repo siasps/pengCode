@@ -38,6 +38,7 @@ CGPoint point = CGPointMake(0, y);
 
 }
 
+
 }else if (gesture.state == UIGestureRecognizerStateEnded){
 
 CGPoint translation = [gesture translationInView:self];
